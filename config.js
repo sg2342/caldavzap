@@ -334,13 +334,12 @@ along with this program. If not, see <http://www.gnu.org/licenses/>.
 var globalNetworkCheckSettings={
 	href: location.protocol+'//'+location.hostname+
 		(location.port ? ':'+location.port: '')+
-		location.pathname.replace(RegExp('/+[^/]+/*(index\.html)?$'),'')+
-		'/caldav.php/',
+		'/principals/',
 	timeOut: 90000,
 	lockTimeOut: 10000,
 	checkContentType: true,
 	settingsAccount: true,
-	delegation: true,
+	delegation: false,
 	additionalResources: [],
 	hrefLabel: null,
 	forceReadOnly: null,
