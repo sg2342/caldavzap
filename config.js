@@ -523,7 +523,7 @@ var globalResourceAlphabetSorting=true;
 // If undefined (or empty), update notifications will be shown to all users.
 // Example:
 //   globalNewVersionNotifyUsers=['admin', 'peter'];
-var globalNewVersionNotifyUsers=[];
+var globalNewVersionNotifyUsers=null;
 
 
 // globalDatepickerFormat
