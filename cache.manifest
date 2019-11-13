@@ -1,5 +1,5 @@
 CACHE MANIFEST
-#V 20150922153002
+# 2019-11-13:v23
 
 CACHE:
 common.js
@@ -20,37 +20,13 @@ css/default_integration.css
 css/fullcalendar.css
 css/jquery-ui.custom.css
 css/spectrum.custom.css
-fonts/Roboto-BoldItalic-webfont.eot
-fonts/Roboto-BoldItalic-webfont.svg
-fonts/Roboto-BoldItalic-webfont.ttf
 fonts/Roboto-BoldItalic-webfont.woff
-fonts/Roboto-Bold-webfont.eot
-fonts/Roboto-Bold-webfont.svg
-fonts/Roboto-Bold-webfont.ttf
 fonts/Roboto-Bold-webfont.woff
-fonts/Roboto-Italic-webfont.eot
-fonts/Roboto-Italic-webfont.svg
-fonts/Roboto-Italic-webfont.ttf
 fonts/Roboto-Italic-webfont.woff
-fonts/Roboto-LightItalic-webfont.eot
-fonts/Roboto-LightItalic-webfont.svg
-fonts/Roboto-LightItalic-webfont.ttf
 fonts/Roboto-LightItalic-webfont.woff
-fonts/Roboto-Light-webfont.eot
-fonts/Roboto-Light-webfont.svg
-fonts/Roboto-Light-webfont.ttf
 fonts/Roboto-Light-webfont.woff
-fonts/Roboto-MediumItalic-webfont.eot
-fonts/Roboto-MediumItalic-webfont.svg
-fonts/Roboto-MediumItalic-webfont.ttf
 fonts/Roboto-MediumItalic-webfont.woff
-fonts/Roboto-Medium-webfont.eot
-fonts/Roboto-Medium-webfont.svg
-fonts/Roboto-Medium-webfont.ttf
 fonts/Roboto-Medium-webfont.woff
-fonts/Roboto-Regular-webfont.eot
-fonts/Roboto-Regular-webfont.svg
-fonts/Roboto-Regular-webfont.ttf
 fonts/Roboto-Regular-webfont.woff
 images/add_cal.svg
 images/add_cal_white.svg
