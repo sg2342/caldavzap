@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# 2019-11-13:v23
+# 2019-11-18:v24
 
 CACHE:
 common.js
@@ -20,14 +20,6 @@ css/default_integration.css
 css/fullcalendar.css
 css/jquery-ui.custom.css
 css/spectrum.custom.css
-fonts/Roboto-BoldItalic-webfont.woff
-fonts/Roboto-Bold-webfont.woff
-fonts/Roboto-Italic-webfont.woff
-fonts/Roboto-LightItalic-webfont.woff
-fonts/Roboto-Light-webfont.woff
-fonts/Roboto-MediumItalic-webfont.woff
-fonts/Roboto-Medium-webfont.woff
-fonts/Roboto-Regular-webfont.woff
 images/add_cal.svg
 images/add_cal_white.svg
 images/arrow_next_red.svg
